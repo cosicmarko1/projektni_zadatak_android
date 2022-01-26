@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Osnove sviranja harmonike</string>
+    <!-- main activity -->
+    <string name="imageDescription">fotografija harmonike</string>
+    <string name="titleText">Osnove sviranja harmonike</string>
+    <string name="startButton">POČETAK</string>
+    <!-- content activity -->
+    <string name="button1">UVOD</string>
+    <string name="button2">LJESTVICE</string>
+    <string name="button3">HARMONIJA</string>
+    <string name="button4">BASOVI</string>
+    <string name="button5">VJEŽBE</string>
+    <string name="homeButton">POČETNA</string>
+    <!-- video1, video2, video3, video4, video5 activity -->
+    <string name="backButton">NATRAG</string>
+</resources>
